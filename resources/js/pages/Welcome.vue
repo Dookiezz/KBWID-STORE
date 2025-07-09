@@ -38,7 +38,8 @@ import { Head, Link } from '@inertiajs/vue3';
                 <div
                     class="flex-1 rounded-br-lg rounded-bl-lg bg-white p-6 pb-12 text-[13px] leading-[20px] shadow-[inset_0px_0px_0px_1px_rgba(26,26,0,0.16)] lg:rounded-tl-lg lg:rounded-br-none lg:p-20 dark:bg-[#161615] dark:text-[#EDEDEC] dark:shadow-[inset_0px_0px_0px_1px_#fffaed2d]"
                 >
-                    <h1 class="mb-1 font-medium">Hello, Welcome to my page</h1>
+                    <div class="badge badge-soft badge-error">#keyboardWarriorsID</div>
+                    <h1 class="mb-1 font-medium">Keyboard Warriors ID</h1>
                     <p class="mb-2 text-[#706f6c] dark:text-[#A1A09A]">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br />Pellentesque rutrum erat eu dui luctus fringilla. Mauris eu leo
                         interdum lacus tristique dapibus.
@@ -58,7 +59,7 @@ import { Head, Link } from '@inertiajs/vue3';
                 <div
                     class="relative -mb-px aspect-335/376 w-full shrink-0 overflow-hidden rounded-t-lg bg-[#fff2f2] lg:mb-0 lg:-ml-px lg:aspect-auto lg:w-[438px] lg:rounded-t-none lg:rounded-r-lg dark:bg-[#1D0002]"
                 >
-                <img src="https://initiate.alphacoders.com/content_requests/1106505-final.png" alt="main-Menu">
+                <img src="https://initiate.alphacoders.com/content_requests/1107530-final.png" alt="main-Menu">
                     <div
                         class="absolute inset-0 rounded-t-lg shadow-[inset_0px_0px_0px_1px_rgba(26,26,0,0.16)] lg:overflow-hidden lg:rounded-t-none lg:rounded-r-lg dark:shadow-[inset_0px_0px_0px_1px_#fffaed2d]"
                     />
