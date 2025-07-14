@@ -38,6 +38,11 @@ const mainNavItems: NavItem[] = [
         href: '/dashboard',
         icon: LayoutGrid,
     },
+    {
+        title: 'Product',
+        href: '/product',
+        icon: LayoutGrid,
+    },
 ];
 
 const rightNavItems: NavItem[] = [
