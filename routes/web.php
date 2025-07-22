@@ -16,5 +16,9 @@ Route::get('product', function() {
     return Inertia::render('Product');
 })->middleware(['auth', 'verified'])->name('product');
 
+Route::get('main', function() {
+    return Inertia::render('Main');
+})->middleware(['auth', 'verified'])->name('main');
+
 require __DIR__.'/settings.php';
 require __DIR__.'/auth.php';
